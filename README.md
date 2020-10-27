@@ -10,3 +10,6 @@ Step 2: Open in VSC or app of your choice and modify the info so that it pertain
 
 Step 3: Open signature.html in any browser.
 
+Step 4: Select All and Copy your signature. 
+
+
