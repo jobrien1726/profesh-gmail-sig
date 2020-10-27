@@ -17,3 +17,6 @@ Step 5: Open Gmail in a browser that ISN'T CHROME (Chrome will auto change your 
 Step 6: Go to your Gmail Settings and scroll down to Signature. 
 
 Step 7: Create new signature, name it, and Paste in your Signature. 
+
+Step 8: Hit "save changes" at the bottom. Now your email will contain a signature in any browser, including Chrome, and the formatting won't be compromised. 
+
