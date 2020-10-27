@@ -13,3 +13,5 @@ Step 3: Open signature.html in any browser.
 Step 4: Select All and Copy your signature. 
 
 Step 5: Open Gmail in a browser that ISN'T CHROME (Chrome will auto change your signature when you hit "save" so that links are underlined and it's frustrating, so use Safari or something).
+
+Step 6: Go to your Gmail Settings and scroll down to Signature. 
