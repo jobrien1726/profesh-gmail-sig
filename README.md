@@ -1,12 +1,14 @@
 # Gmail Signature
 
+Code from https://github.com/skarif2/gmail-signature, with minor edits to font, coloring, and the personal info.
+
 If you're looking to create a simple yet elegant and professional email signature, look no further! 
 
 ## Instructions
 
-Step 1: Clone this repo to your desktop.
+Step 1: Clone repo to your desktop.
 
-Step 2: Open in VSC or app of your choice and modify the info so that it pertains to you.
+Step 2: Open in VSC or app of your choice and modify the info so that it pertains to you. Make sure any photos you use can be found somewhere on the internet (ie "src" is a url).
 
 Step 3: Open signature.html in any browser.
 
