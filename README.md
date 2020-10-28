@@ -22,3 +22,4 @@ Step 7: Create new signature, name it, and Paste in your Signature.
 
 Step 8: Hit "save changes" at the bottom. Now your email will contain a signature in any browser, including Chrome, and the formatting won't be compromised. 
 
+Note: There is a limit of 10,000 characters in Gmail Signature. Make sure you don't go too overboard!
