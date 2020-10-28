@@ -4,7 +4,7 @@ Code from https://github.com/skarif2/gmail-signature, with minor edits to font, 
 
 If you're looking to create a simple yet elegant and professional email signature, look no further! 
 
-![](photos/signature.png)
+<img src="photos/signature.png" width="100"/>
 
 ## Instructions
 
